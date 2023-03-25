@@ -1,13 +1,4 @@
 # Real Estate Sales Contract Smart Contract
-This smart contract is a simple example of a real estate sales contract implemented in Solidity.
-
-## Table of Contents
-Introduction
-Installation
-Usage
-Contributing
-License
-Introduction
 This smart contract is a simple example of a real estate sales contract implemented in Solidity. The contract includes the property address and agreed upon price, and can only be signed once both parties have approved it. Once the contract is signed, the agreed upon price is transferred from the buyer to the seller.
 
 ## Installation
